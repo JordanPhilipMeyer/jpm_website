@@ -1,0 +1,6 @@
+# Ignore virtual environment folder
+/venv
+/.vscode
+
+# Ignore issues.txt file
+issues.txt
